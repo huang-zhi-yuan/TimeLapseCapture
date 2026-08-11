@@ -1,7 +1,7 @@
 
 <body>
 
-<h1>TimeLapseCapture v2.0.1</h1>
+<h1>TimeLapseCapture v2.0.1（simple chinese）（中文版readme见后文）软件为中文版</h1>
 <p><strong>High-Quality Adaptive Timelapse Tool for Windows</strong><br>
 <em>高画质自适应延时摄影工具</em></p>
 
